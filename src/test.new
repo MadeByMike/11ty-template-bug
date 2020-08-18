@@ -1,0 +1,6 @@
+---
+title: Eleventy
+permalink: /test/
+---
+
+When there is a permalink value in frontmatter result of the content will be included in the filename.
